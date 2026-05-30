@@ -300,7 +300,6 @@ sudo /opt/zapret/uninstall_easy.sh
 ## 💝 Поддержка проекта
 
 - ⭐ **Поставить звездочку** репозиторию (вверху страницы)
-- 💰 **[Поддержать разработчика](https://t.me/kartavslinks/8)**
 - 🐛 **Сообщить о багах** и предложить улучшения
 
 **Поддержите оригинального разработчика zapret:**
@@ -308,7 +307,7 @@ https://github.com/bol-van/zapret/issues/590
 
 ## 📈 История звезд
 
-<a href="https://star-history.com/#kartavkun/zapret-discord-youtube&Date">
+<a href="https://star-history.com/#quri-az/zapret-discord-youtube-roblox-linux&Date">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=kartavkun/zapret-discord-youtube&type=Date&theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=kartavkun/zapret-discord-youtube&type=Date" />
@@ -324,7 +323,7 @@ https://github.com/bol-van/zapret/issues/590
 
 ### 🩷 Контрибьюторы
 
-[![Contributors](https://contrib.rocks/image?repo=kartavkun/zapret-discord-youtube)](https://github.com/kartavkun/zapret-discord-youtube/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=quri-az/zapret-discord-youtube-roblox-linux)](https://github.com/quri-az/zapret-discord-youtube-roblox-linux/graphs/contributors)
 
 ---
 
