@@ -1,7 +1,7 @@
 # 🚀 Zapret - Обход блокировок Discord и YouTube
 
 > [!NOTE]
-> **Внимание**: Этот репозиторий — **некоммерческая** *User-Friendly* сборка [оригинального проекта zapret](https://github.com/bol-van/zapret).
+> **Внимание**: Этот репозиторий — **некоммерческая** *User-Friendly* сборка [оригинального проекта zapret](https://github.com/bol-van/zapret), а также форк [репозитория от kartavkun](https://github.com/kartavkun/zapret-discord-youtube) для игроков Roblox на Linux.
 >
 > 🔒 **Безопасность**: Используются оригинальные бинарники с проверяемыми хэшами. Так как zapret — open-source, вы всегда можете самостоятельно собрать бинарники из исходного кода.
 >
