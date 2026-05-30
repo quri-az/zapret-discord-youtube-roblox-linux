@@ -17,6 +17,7 @@ DiscordUpdates        = "https://updates.discord.com"
 YouTubeWeb            = "https://www.youtube.com"
 YouTubeShort          = "https://youtu.be"
 YouTubeImage          = "https://i.ytimg.com"
+YouTubeMusic          = "https://music.youtube.com"
 YouTubeVideoRedirect  = "https://redirector.googlevideo.com"
 
 ### Google
@@ -33,3 +34,11 @@ CloudflareDNS1001     = "PING:1.0.0.1"
 GoogleDNS8888         = "PING:8.8.8.8"
 GoogleDNS8844         = "PING:8.8.4.4"
 Quad9DNS9999          = "PING:9.9.9.9"
+
+###Roblox
+RobloxMain            = "https://roblox.com"
+CreateRoblox          = "https://create.roblox.com"
+AuthRoblox            = "https://auth.roblox.com"
+RobloxStudio          = "https://studio.roblox.com"
+RobloxCatalog         = "https://catalog.roblox.com"
+RbxCdn                = "https://rbxcdn.com"
