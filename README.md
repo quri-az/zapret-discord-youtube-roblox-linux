@@ -55,7 +55,7 @@ nix.settings.experimental-features = [ "nix-command" "flakes" ];
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-25.11"; # Укажите свою версию NixOS, но не ниже 25.11.
-    zapret-discord-youtube.url = "github:kartavkun/zapret-discord-youtube";
+    zapret-discord-youtube.url = "github:quri-az/zapret-discord-youtube-roblox-linux";
   };
 
   outputs = { self, nixpkgs, zapret-discord-youtube }: {
