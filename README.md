@@ -19,13 +19,13 @@
 **Автоматическая установка одной командой:**
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/kartavkun/zapret-discord-youtube/main/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/quri-az/zapret-discord-youtube-roblox-linux/main/setup.sh)
 ```
 
 > [!TIP]
 > Если команда выше не работает, попробуйте альтернативный вариант:
 > ```bash
-> bash <(curl -s https://raw.githubusercontent.com/kartavkun/zapret-discord-youtube/main/setup.sh | psub)
+> bash <(curl -s https://raw.githubusercontent.com/quri-az/zapret-discord-youtube-roblox-linux/main/setup.sh | psub)
 > ```
 
 **Что делает скрипт установки:**
